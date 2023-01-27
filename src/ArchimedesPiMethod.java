@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/**
+ *
+ * @author crazyne55
+ *
+ * @since Version 1.0
+ *
+ */
 public class ArchimedesPiMethod {
     public static void main(String[] args) {
         int n = 8;
